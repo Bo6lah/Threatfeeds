@@ -1,22 +1,3 @@
-[
-  {
-    "value":"172.64.86.93",
-    "tags":"proxy",
-    "description":"IOC with tags: proxy",
-    "score":10
-  }
-]
-[
-    {
-        "value": "192.168.1.1",
-        "tags": "malware, botnet",
-        "description": "Detected malicious activity",
-        "score": 30
-    },
-    {
-        "value": "10.0.0.5",
-        "tags": "phishing",
-        "description": "Potential phishing site",
-        "score": 40
-    }
-]
+"172.64.86.93"
+"192.168.1.1"
+"10.0.0.5"
